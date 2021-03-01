@@ -18,5 +18,6 @@ func main() {
 	} else {
 		fmt.Println("Not Palindrome")
 	}
+	fmt.Println("hello world")
 
 }
